@@ -4,7 +4,7 @@
 [![PyTorch 1.9+](https://img.shields.io/badge/PyTorch-1.9+-orange.svg)](https://pytorch.org/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-red.svg)](LICENSE)
 
-![LiMDF-Net Architecture](LIMDF-Net.png)
+![LiMDF-Net Architecture](LiMDF-Net.png)
 
 This repository contains the official implementation of **LiMDF-Net** (Lightweight Multimodal Direct Fusion Network), a lightweight deep learning model for skin lesion classification using multimodal data fusion. LiMDF-Net efficiently combines dermoscopic images and clinical metadata to achieve competitive performance with minimal computational overhead, making it suitable for deployment on edge devices.
 
